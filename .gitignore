@@ -1,0 +1,15 @@
+codegentemp/
+CortexM0/
+codegentemp/
+CortexM0/
+Generated_Source/
+Export/
+
+*.cycdx
+*.cyfit
+*.rpt
+*.svd
+*.cyprj.*
+*_timing.html
+*.log
+*.cmd
